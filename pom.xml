@@ -96,15 +96,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.44.98:9980/mithuntechnologies/repository/walmart-release/</url>
+	      <id>flip</id>
+	      <name>Releases Nexus Repository</name>
+	      <url>http://13.233.138.113:8081/repository/insta-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.44.98:9980/mithuntechnologies/repository/walmart-snapshot/</url>
+	      <id>flip</id>
+	      <name>Snapshot Nexus Repository </name>
+	      <url>http://13.233.138.113:8081/repository/insta-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
