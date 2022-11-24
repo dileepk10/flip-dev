@@ -95,15 +95,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>flip</id>
+	      <id>insta</id>
 	      <name>Releases Nexus Repository</name>
-	      <url>http://13.233.204.200:8081/repository/insta-release/</url>
+	      <url>http://13.232.125.26:8081/repository/insta-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>flip</id>
+	      <id>insta</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://13.233.204.200:8081/repository/insta-snapshot/</url>
+	      <url>http://13.232.125.26:8081/repository/insta-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
